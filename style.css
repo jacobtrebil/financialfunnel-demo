@@ -93,15 +93,6 @@ p {
 }
 
 @media only screen and (max-width: 600px) {
-    #vidBtn {
-        top: 20%;
-        width: 20%;
-    }
-    #soundIcon {
-        top: 14%;
-        left: 32%;
-        width: 18%;
-    }
     .wistia_embed {
         height: 200px;
         width: 320px;
