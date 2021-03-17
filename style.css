@@ -102,4 +102,11 @@ p {
         left: 32%;
         width: 18%;
     }
+    .wistia_embed {
+        height: 200px;
+        width: 320px;
+    }
+    h1 {
+        font-size: 32px;
+    }
 }
